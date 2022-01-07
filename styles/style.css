@@ -36,3 +36,12 @@ img{
   display: block;
   margin: 0 auto;
 }
+
+.quote{
+  color: green;
+}
+
+#mainquote{
+  color:  purple;
+  border: 6px solid black;
+}
